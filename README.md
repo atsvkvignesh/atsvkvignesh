@@ -1,5 +1,5 @@
 <<h1 align="center">Hi I am shree vignesh khumar A T</h1>
-<h3 align="center">mechanical engineer + software developer</h3>
+<h3 align="center">mechanical engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atsvkvignesh&label=Profile%20views&color=0e75b6&style=flat" alt="atsvkvignesh" /> </p>
 
