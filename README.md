@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **linux , open source , physics**
 
-- ⚡ Fun fact **I hate windows**
+- ⚡ **I hate windows**
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif">
 
 
