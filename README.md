@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atsvkvignesh&label=Profile%20views&color=0e75b6&style=flat" alt="atsvkvignesh" /> </p>
 
-- 🌱 I’m currently learning **i never know , untill i learn something pentesing and ramdom**
+- 🌱 I’m currently learning **i never know , engineering physics and computational engineering tools **
 
 - 💬 Ask me about **linux , open source , physics**
 
