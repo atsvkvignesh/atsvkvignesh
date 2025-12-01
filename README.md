@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning <b> Marketing, Finance </b>
 
-- 💬 Ask me about **linux , open source , physics , Welding , markering , Formula 1 , Baja ATV **
+- 💬 Ask me about <b>linux , open source , physics , Welding , markering , Formula 1 , Baja ATV </b>
 
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif">
