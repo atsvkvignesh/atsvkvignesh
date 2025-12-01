@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atsvkvignesh&label=Profile%20views&color=0e75b6&style=flat" alt="atsvkvignesh" /> </p>
 
-- 🌱 I’m currently learning **Marketing, Finance**
+- 🌱 I’m currently learning <b> Marketing, Finance </b>
 
 - 💬 Ask me about **linux , open source , physics , Welding , markering , Formula 1 , Baja ATV **
 
