@@ -1,13 +1,13 @@
 <h1 align="center">Hi I am shree vignesh khumar A T</h1>
-<h3 align="center">mechanical engineer </h3>
+<h3 align="center">mechanical engineer | Marketer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atsvkvignesh&label=Profile%20views&color=0e75b6&style=flat" alt="atsvkvignesh" /> </p>
 
-- 🌱 I’m currently learning **Engineering physics and computational engineering tools**
+- 🌱 I’m currently learning **Marketing, Finance**
 
-- 💬 Ask me about **linux , open source , physics**
+- 💬 Ask me about **linux , open source , physics , Welding , markering , Formula 1 , Baja ATV **
 
-- ⚡ **I hate windows**
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif">
 
 
